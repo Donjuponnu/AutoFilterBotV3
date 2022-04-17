@@ -20,11 +20,11 @@
 
 #### Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DalinMathew/AutoFilterBotV3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template= )< /br>template=https://github.com/Donjuponnu/AutoFilterBotV3
 
 #### Hard Way
 ```bash
-# Create virtual environment
+# Create virtual environment  
 python3 -m venv env
 
 # Activate virtual environment
